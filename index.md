@@ -1,48 +1,52 @@
 # Desarrollo de Aplicaciones Web y Moviles - Projects :
-Projects developed during DAWM course by Jefferson Eras Lindao
+Proyectos desarrollados en ESPOL by Jefferson Eras Lindao en Curso de DAWM
 
 # CONTENIDO
+A continuación se listan los repositorios:
 
 <table border="1" align="center">
 <tr>
- <th>NombrE</th>
+ <th>Nombre de Repositorio</th>
  <th>Enlace</th>
- <th>Detalle</th>
+ <th>Detalle del Proyecto</th>
 </tr>
 
 <tr>
-      <th>Proyecto 01</th>
+        <th>Proyecto 01</th>
            <td>
- 
-            </td>
-             <td>Repositorio del desarrollador</td>
+             <a href="https://github.com/JeffErasLindao/dawm-repo" target="_blank" >Ir a Proyecto 01</a>
+           </td>
+           <td>Repositorio del desarrollador</td>
 </tr>
+ 
  
  <tr>
         <th>Proyecto 02</th>
-            <td>
-
-             </td>
-             <td>Curriculum Vitae</td>
+           <td>
+             <a href="https://github.com/JeffErasLindao/curriculum" target="_blank" >Ir a Proyecto 02</a>
+           </td>
+           <td>Curriculum Vitae</td>
 </tr>
-
+ 
 <tr>
-         <th>Proyecto 03</th>
-            <td>
-
-             </td>
-              <td>Landing Page  - SPA</td>
+        <th>Proyecto 03</th>
+           <td>
+             <a href="https://github.com/JeffErasLindao/dawm-repo" target="_blank" >Ir a Proyecto 03</a>
+           </td>
+           <td>Landing Page  - SPA</td>
 </tr>
-
-<tr>
-         <th>Proyecto 04</th>
-            <td>
-
-             </td>
-              <td>Clima  - MPA</td>
+ 
+ <tr>
+        <th>Proyecto 04</th>
+           <td>
+             <a href="https://github.com/JeffErasLindao/dawm-repo" target="_blank" >Ir a Proyecto 04</a>
+           </td>
+           <td>Clima  - MPA</td>
 </tr>
 
 </table>
 
-# Informacion de creador
-jeras@espol.edu.ec
+# Informacion del desarrollador
+Correo: jeras@espol.edu.ec
+
+Estos repositorios son públicos con el fin de compartirlo con la comunidad.
