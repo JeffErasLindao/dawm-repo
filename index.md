@@ -1,7 +1,13 @@
-# Desarrollo de Aplicaciones Web y Moviles - Projects :
-Proyectos desarrollados en ESPOL by Jefferson Eras Lindao en Curso de DAWM
 
-# CONTENIDO
+<img src="https://frontdeskhelpers.com/wp-content/uploads/2020/04/web-development-png-web-development-1100.png" width="100" align="center">
+
+# Desarrollo de Aplicaciones Web y Moviles - Projects : 
+Contenido de repositorios publicos con el fin de compartirlos con la comunidad, los cuales han sido desarrollados y trabajados en el curso
+de DAWM en ESPOL.
+
+
+
+## CONTENIDO
 A continuación se listan los repositorios:
 
 <table border="1" align="center">
@@ -46,7 +52,8 @@ A continuación se listan los repositorios:
 
 </table>
 
-# Informacion del desarrollador
-Correo: jeras@espol.edu.ec
+### INFORMACION DEL DESARROLLADOR 
+<strong>Correo:</strong> <jeras@espol.edu.ec>
 
-Estos repositorios son públicos con el fin de compartirlo con la comunidad.
+<img src="https://pbs.twimg.com/media/D7mqur6XYBAENQN.png" width="50">
+Proyectos desarrollados en <strong>ESPOL</strong> by <strong>Jefferson Eras Lindao</strong> en Curso de DAWM
